@@ -4,5 +4,5 @@ Here you will find the files for all supported languages, if you find a translat
 # Fully Supported Languages
 Languages that are already fully supported.
 
-> English - Official<br>
-> Português (Brasil) - Official
+> English - by Official<br>
+> Português (Brasil) - by reallyDk
